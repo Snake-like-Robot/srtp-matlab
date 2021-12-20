@@ -1,0 +1,9 @@
+n = 6;
+mi = 1;
+li = 1;
+cti = 0.1;
+cni = 10;
+alpha = pi/6;
+beta = 60/180*pi;
+gamma = 0/180*pi;
+omega = 3;
